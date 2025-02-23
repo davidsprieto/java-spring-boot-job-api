@@ -1,4 +1,4 @@
-<h1 align=center>Java - Job API</h1>
+<h1 align=center>Job API</h1>
 
 API developed using:
 
