@@ -1,6 +1,6 @@
 <h1 align=center>Job API</h1>
 
-API developed using:
+API developed with:
 
 - Java
 - Spring Boot
